@@ -29,5 +29,5 @@ This web application allows users to search for GitHub profiles and view their d
 3. Start searching for GitHub users!
 
 ## Demo
-You can try the demo live by visiting 
+You can try the demo live by visiting - https://nandana134.github.io/Github-Profile-Finder/
 
